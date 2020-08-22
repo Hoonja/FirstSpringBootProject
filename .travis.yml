@@ -38,7 +38,7 @@ deploy:
     application: springboot-study-webservice
     deployment_group: springboot-study-webservice-group
     region: ap-northeast-2
-    wait-untile-deployed: true
+    wait-until-deployed: true
 
 notifications:
   email:
